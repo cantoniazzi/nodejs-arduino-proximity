@@ -25,7 +25,7 @@ O <a href="https://gist.githubusercontent.com/rwaldron/0519fcd5c48bfe43b827/raw/
 
 __Configuração do app no Twitter:__
 
-Para postar os tweets é necessária criar um app no Twitter (https://apps.twitter.com) e inserir no script (twitter_bot.js) as keys geradas pelo app:
+Para postar os tweets é necessário criar um app no Twitter (https://apps.twitter.com) e inserir no script (twitter_bot.js) as keys geradas pelo app:
 
 ```bash
 T : new Twit({
