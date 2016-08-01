@@ -2,7 +2,6 @@ var five = require("johnny-five");
 var Twit = require('./twitter_bot.js');
 
 var board = new five.Board();
-var lastPostDate = null;
 
 board.on("ready", function() {
     var proximity = new five.Proximity({
