@@ -41,4 +41,5 @@ T : new Twit({
 
 
 __Apresentação:__
+[![ScreenShot](https://pbs.twimg.com/ext_tw_video_thumb/759495709569744896/pu/img/KHBcbQnnLohI6NFX.jpg)](https://twitter.com/cassiosvaldo/status/759496162248388608)
 [![Alt text](https://pbs.twimg.com/ext_tw_video_thumb/759495709569744896/pu/img/KHBcbQnnLohI6NFX.jpg)](https://twitter.com/cassiosvaldo/status/759496162248388608)
