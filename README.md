@@ -41,5 +41,4 @@ T : new Twit({
 
 
 __Apresentação:__
-<blockquote class="twitter-video" data-lang="pt"><p lang="pt" dir="ltr">Postando tweet&#39;s a partir de um Arduíno com sensor de presença. <a href="https://twitter.com/hashtag/nodebotsday?src=hash">#nodebotsday</a> <a href="https://twitter.com/hashtag/nodejs?src=hash">#nodejs</a> <a href="https://twitter.com/hashtag/arduino?src=hash">#arduino</a> <a href="https://t.co/vhJqbeq0ep">pic.twitter.com/vhJqbeq0ep</a></p>&mdash; Cássio (@cassiosvaldo) <a href="https://twitter.com/cassiosvaldo/status/759496162248388608">30 de julho de 2016</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+[![Alt text](https://pbs.twimg.com/ext_tw_video_thumb/759495709569744896/pu/img/KHBcbQnnLohI6NFX.jpg)](https://twitter.com/cassiosvaldo/status/759496162248388608)
